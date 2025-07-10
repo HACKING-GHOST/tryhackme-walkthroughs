@@ -1,5 +1,6 @@
 # Linux-Fundamentals-Part-1-Walkthrough
 
+  
    #Task 1 
       1. Just read the Introduction for having basic intro information about the Linux OS.
       2. Click on _complete_ to complete the task 1 
@@ -32,6 +33,13 @@
       2. To replace the contents of the file , the command would be used is _echo password123 > passwords_
       3. If you want to add something on a file which already contains data then , the command would be used is _echo tryhackme >> passwords_
       4. Click on _complete_ to complete the Task 7
+
+   #Task 8
+      1. Click on _complete_ to complete the Task 8
+   
+   #Task 9  
+      1. Click on _complete_ to complete the Task 9
+      2. Click on _complete_ to complete the Task 9
 
    #Task 8
       1. Click on _complete_ to complete the Task 8
