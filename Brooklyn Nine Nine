@@ -53,9 +53,24 @@
         
          The password is 987654321 , With the password now do ssh login using command ssh jake@MACHINE_IP 
 
+    6.  We got the access at jake@brookly-nine-nine so right now we are in /home/jake on listing the directories in jake we found nothing
+
+        Now we will get back to home with _cd .._ where we will get 3 directories in which  directory named _holt_ shows us _user.txt_ file which has the key 
+
+        The flag is ee11cbb19052e40b07aac0ca060c23ee 
 
 
+  #Task 2
 
+    7.  Now we use _sudo -l_ to list user's privileges 
+
+        User jake may run the following commands on brookly_nine_nine: (ALL) NOPASSWD: /usr/bin/less
+
+        For that matter we have to perform privilege escalation which could be then with the help of GTFOBins search less in GTFOBins to get how to access the root with the help of less
+
+        So we got _sudo less/root/root.txt_ after which we get the flag which is 63a9f0ea7bb98050796b649e85481845
+
+                                
 
 
 
